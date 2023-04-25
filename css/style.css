@@ -1,0 +1,156 @@
+.heading {
+  position: absolute;
+  width: 1440px;
+  height: 146px;
+  left: 0px;
+  top: 0px;
+  background-color: #fff;
+}
+
+.ellips-one {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 60px;
+  top: 60px;
+}
+
+.ellips-two {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 76px;
+  top: 60px;
+}
+
+.ellips-four {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 76px;
+  top: 76px;
+}
+
+.logo {
+  position: absolute;
+  width: 38.64px;
+  height: 59px;
+  left: 701px;
+  top: 43px;
+}
+
+.heading-link-one {
+  position: absolute;
+  width: 266px;
+  height: 27px;
+  left: 840px;
+  top: 60px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 27px;
+  word-spacing: 30px;
+}
+
+.ellips-three {
+  position: absolute;
+  width: 10px;
+  height: 10px;
+  left: 60px;
+  top: 76px;
+
+}
+
+.heading-link {
+  position: absolute;
+  left: 298px;
+  top: 59px;
+  width: 305px;
+  height: 27px;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+  line-height: 27px;
+  text-decoration: none;
+  word-spacing: 30px;
+  text-align: center;
+}
+
+.main {
+  position: absolute;
+  width: 535px;
+  height: 336px;
+  left: 180px;
+  top: 0px;
+  color: #000;
+}
+
+.main-one {
+  width: 535px;
+
+
+}
+
+.main-heading {
+
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 50px;
+  line-height: 67px;
+  letter-spacing: 0.06em;
+}
+
+.mainheading-two {
+
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 70px;
+  line-height: 93px;
+  letter-spacing: 0.06em;
+}
+
+.main-paragraf {
+  width: 535px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 147.6%;
+  letter-spacing: 0.06em;
+}
+
+.main-logo {
+  position: absolute;
+  width: 45.21px;
+  height: 69.04px;
+  left: 318px;
+
+}
+
+
+
+.site-body {
+  position: relative;
+  width: 1440px;
+  height: 940px;
+}
+
+.site-main {
+  position: absolute;
+  width: 1320px;
+  height: 634px;
+  left: 60px;
+  top: 186px;
+  background: #FFFAF3;
+}
+
+.main-img {
+  position: absolute;
+  width: 660px;
+  height: 878px;
+  left: 650px;
+  top: -200px;
+  background: url(image.png);
+
+}
